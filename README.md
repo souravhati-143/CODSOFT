@@ -78,9 +78,8 @@ python task4_recommendation.py
 
 ## 👤 Author
 
-**[Your Name]**  
+**Sourav Hati**  
 CodSoft AI Internship  
-[LinkedIn Profile](#) | [GitHub](#)
 
 ---
 
